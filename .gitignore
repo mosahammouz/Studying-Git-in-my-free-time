@@ -1,0 +1,5 @@
+#Rider files
+.idea/
+#Build files
+bin/
+obj/
